@@ -34,10 +34,10 @@
   <tr>
     <td align="center" width="200">
       <a href="https://github.com/intellion6">
-        <img src="https://github.com/intellion6.png" width="100" height="100" style="border-radius:50%" alt="김나형" onerror="this.src='https://avatars.githubusercontent.com/u/0'" />
+        <img src="https://github.com/intellion6.png" width="100" height="100" style="border-radius:50%" alt="김나현" onerror="this.src='https://avatars.githubusercontent.com/u/0'" />
       </a>
       <br/>
-      <strong>👑 김나형</strong>
+      <strong>👑 김나현</strong>
       <br/>
       <sub><b>Team Leader</b></sub>
       <br/><br/>
